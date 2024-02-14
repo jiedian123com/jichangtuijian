@@ -64,6 +64,8 @@
 
 #### 飞机云机场测速
 
+![FeijiCloud-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/c4105a14-bb1d-4cd9-89cb-2bff3dd142c6)
+
 ### 2. 大哥云
 
 #### 大哥云官网
@@ -84,6 +86,8 @@
 
 #### 大哥云机场测速
 
+![dageyun-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/14c5ccf1-2b40-4285-8828-b6a74202ef21)
+
 ### 3. 龙猫云
 
 #### 龙猫云官网
@@ -100,6 +104,8 @@
 | VIP4套餐 | 按月付  | 120.00 | 1000 GB | 无限制    |
 
 #### 龙猫云机场测速
+
+![TotoroCloud-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/5493b971-af6c-471c-9396-43b676326110)
 
 ### 4. 速云梯
 
@@ -119,6 +125,8 @@
 
 #### 速云梯机场测速
 
+![SuYunTi-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/5b506bd4-3af8-4cbd-b43e-b631bf675dc7)
+
 ### 5. 极速VIP加速器
 
 #### 极速VIP加速器官网
@@ -137,6 +145,8 @@
 
 #### 极速VIP加速器机场测速
 
+![JisuVIP-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/52107d99-fa44-48af-ba23-2eab797854db)
+
 ### 6. 飞鸟机场
 
 #### 飞鸟机场官网
@@ -153,6 +163,8 @@
 | 钻石套餐 | 按月付  | 150.00 | 1000 GB | 无限制    |
 
 #### 飞鸟机场机场测速
+
+![FlyingBird-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/2a8820cb-767b-4f8d-a8fa-e8a5acbe4ae6)
 
 ### 7. CyberGuard机场
 
@@ -171,6 +183,8 @@
 
 #### CyberGuard机场机场测速
 
+![cyberguard-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/c9cfcec0-20aa-4bbb-aad3-c1c55dac9939)
+
 ### 8. 万城网络
 
 #### 万城网络官网
@@ -188,6 +202,8 @@
 | 专业   | 按月付  | 138.00 | 780 GB | 10     |
 
 #### 万城网络机场测速
+
+![vcity-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/71b69d4e-5a78-4e68-824f-d826b983c708)
 
 ### 9. 奶瓶机场
 
@@ -222,6 +238,8 @@
 
 #### 奶瓶机场机场测速
 
+![Nerwo-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/3c515a06-9506-4fc4-aec8-55bd1e76567c)
+
 ### 10. SSRDOG机场
 
 #### SSRDOG机场官网
@@ -239,3 +257,5 @@
 | 按量1000G  | 按次付  | 400.00 | 1000 GB | 无限制    |
 
 #### SSRDOG机场机场测速
+
+![SSRDOG-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/6ab0abd2-3e36-49ab-837d-32d710fcb68b)
