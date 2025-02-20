@@ -68,7 +68,30 @@ ErWanCloud尔湾云机场，是实力老牌机场旗下的新开分站，是用�
 
 ![erwan-SpeedTest](https://github.com/user-attachments/assets/42453f5e-6e5d-4b76-bda4-749f3adaa121)
 
-### 2. 疾风云
+
+### 2. 优信云机场
+YouxinCloud优信云机场，是用低价提供优质中高端翻墙节点的机场梯子工具科学上网加速器。
+
+#### 优信云机场官网
+
+[优信云机场最新官网](https://jd123.affxc.com/youxincloud)
+
+#### 优信云机场套餐价格
+
+| 优信云机场     | 付款周期 | 价格    | 每月流量   | 同时在线数量 |
+|-----------|------|-------|--------|--------|
+| 休闲款套餐     | 按月付  | 15.00 | 50 GB  | 2      |
+| 运动款套餐     | 按月付  | 20.00 | 100 GB | 3      |
+| 商务款套餐     | 按月付  | 30.00 | 200 GB | 4      |
+| 专业款套餐     | 按月付  | 40.00 | 350 GB | 6      |
+| 旗舰版套餐-大流量 | 按月付  | 50.00 | 600 GB | 6      |
+
+#### 优信云机场机场测速
+
+![youxincloud-SpeedTest](https://github.com/user-attachments/assets/8f6fe8e7-c179-4e69-9a2d-22775f82b015)
+
+
+### 3. 疾风云
 JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的机场梯子工具加速器。
 
 #### 疾风云官网
@@ -90,7 +113,7 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 
 ![JFCloud-SpeedTest](https://github.com/jiedian123com/jichangtuijian/assets/152299361/f5353032-a0b4-4004-8113-e8b39cf373bc)
 
-### 3. 大哥云
+### 4. 大哥云
 大哥云是一家海外团队运营的翻墙机场，提供Trojan翻墙节点，翻墙线路有直连、隧道中转和IPLC内网专线，国内有移动和联通双线入口，安卓和Windows系统可使用大哥云定制客户端。
 
 #### 大哥云官网
@@ -114,7 +137,7 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 ![dageyun-SpeedTest](https://github.com/user-attachments/assets/7bfcf6df-0560-429b-b09d-aa417a11402c)
 
 
-### 4. 三番云加速器
+### 5. 三番云加速器
 三番云，是某实力老牌机场旗下新开高端专线机场，也是一家用低价提供高端线路节点的魔法上网机场梯子工具加速器。使用隧道中转优化线路与IPLC国际专线，使用 V2Ray 协议，多达条优质线路节点主要集中在香港、台湾、美国、日本、韩国、法国等中国用户常用国家与地区。
 
 #### 三番云加速器官网
@@ -135,7 +158,7 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 
 ![sanfancloud-SpeedTest-ZSDX-20240705](https://github.com/jiedian123com/jichangtuijian/assets/152299361/4a963a68-d679-4558-9e2e-b43106ae71fc)
 
-### 5. 龙猫云
+### 6. 龙猫云
 Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Shadowsocks协议，IPLC专线节点，对Netflix、Disney+流媒体和ChatGPT解锁支持较好。除了给个人用户提供服务外，还支持企业定制，包括Tiktok直播专线。龙猫云机场对新手十分友好，客服支持很给力，支持远程一对一指导。
 
 #### 龙猫云官网
@@ -155,7 +178,7 @@ Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Sh
 
 ![TotoroCloud-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/5493b971-af6c-471c-9396-43b676326110)
 
-### 6. 速云梯
+### 7. 速云梯
 速云梯提供海量SSR/V2ray翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。速云梯机场节点都有标注倍率，使用时需要注意，高倍率节点一般更为稳定快速，低倍率节点适合日常刷网页使用，更为经济。
 
 #### 速云梯官网
@@ -176,7 +199,7 @@ Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Sh
 
 ![SuYunTi-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/5b506bd4-3af8-4cbd-b43e-b631bf675dc7)
 
-### 7. 极速VIP加速器
+### 8. 极速VIP加速器
 极速VIP加速器是老牌机场旗下的新晋分站，提供稳定专业流媒体解锁和游戏加速服务的高端性价比机场节点梯子。采用BGP隧道中转优化和IPLC国际专线，支持SSR/V2Ray协议，适用于几乎所有主流系统下的翻墙插件。
 
 #### 极速VIP加速器官网
@@ -197,7 +220,7 @@ Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Sh
 
 ![JisuVIP-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/52107d99-fa44-48af-ba23-2eab797854db)
 
-### 8. 飞鸟机场
+### 9. 飞鸟机场
 FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的Shadowsocks翻墙协议，专线节点，高速稳定。FlyingBird所有套餐均不设限速，也不限制设备数量，并且可以很好的解锁翻墙者常用的奈飞、迪士尼Plus流媒体服务，可以满足绝大部分翻墙用户需要。
 
 #### 飞鸟机场官网
@@ -217,7 +240,7 @@ FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的
 
 ![FlyingBird-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/2a8820cb-767b-4f8d-a8fa-e8a5acbe4ae6)
 
-### 9. 万城网络
+### 10. 万城网络
 万城网络创立于2023年，是一家主打稳定的专线机场，采用Shadowsocks协议，节点覆盖常用地区和海量小众冷门地区节点。万城网络机场有定制的Windows客户端，也有按量付费流量包提供。
 
 #### 万城网络官网
@@ -238,7 +261,7 @@ FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的
 
 ![vcity-SpeedTest-SZDX](https://github.com/jiedian123com/jichangtuijian/assets/152299361/71b69d4e-5a78-4e68-824f-d826b983c708)
 
-### 10. 奶瓶机场
+### 11. 奶瓶机场
 Nerwo奶瓶机场是一家成立云2019年的翻墙机场，采用Shadowsocks（R）和Trojan翻墙协议，线路方面为BGP国内中转，晚高峰有一定的保障。
 
 #### 奶瓶机场官网
